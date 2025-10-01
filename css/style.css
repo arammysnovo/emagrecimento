@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    background-color: black;
+    color: #fff;
+    padding: 1rem;
+    width: 700px;
+    margin: 50px auto;
+    border: red solid 6px;
+    text-align: center;
+}
+
+.redes-sociais h2 {
+    text-align: center;
+}
+
+.redes-sociais ul {
+    list-style: none;
+    text-align: center;
+}
+
+.redes-sociais a {
+    text-decoration: none;
+    color: #00000f;
+}
+
+.redes-sociais a:hover {
+    color: red;
+}
